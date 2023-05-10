@@ -1,4 +1,4 @@
-<h1>Hi, I'm David Maldonado! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm David Maldonado! <br/><a href="https://github.com/joshmadakor1">Mechatronics Engineer</a>
 
 <h2>👨‍💻 Proyectos Trabajados en la Universidad: (sigue en edición)</h2>
 
