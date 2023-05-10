@@ -5,7 +5,7 @@
 - <b>Motogarage</b>
   - [Documento Final Propuesta diseño Motogarage para EDAG](https://drive.google.com/file/d/1HxQTdzBMVAcLHKbpnppFdV7Qe5uXsxUw/view?usp=share_link)
 - <b>Relevado de Esfuerzos</b>
-  - [Sistema Monitoreo en la Nube de proceso de Relevado de Esfuerzos](https://drive.google.com/file/d/1VcZBMoG-LuaV5yiK1h0Zr3nCACcqB4Db/view?usp=share_link)
+  - [Sistema Monitoreo en la Nube de proceso de Relevado de Esfuerzos para DUAL](https://drive.google.com/file/d/1VcZBMoG-LuaV5yiK1h0Zr3nCACcqB4Db/view?usp=share_link)
 - <b>PiCar Seguidor de línea con visión</b>
   - [Código seguidor de Línea](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Video Demostración Conducción](https://drive.google.com/file/d/1WCBn4lJj54956itMjlp2fP1ppohguA6e/view?usp=share_link)
