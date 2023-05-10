@@ -10,7 +10,7 @@
   - [Código seguidor de Línea](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Video Demostración Conducción](https://drive.google.com/file/d/1WCBn4lJj54956itMjlp2fP1ppohguA6e/view?usp=share_link)
 - <b>Smart Factory</b>
-  - [Presentación de avances sistema de visión con comunicación IoT](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Presentación de avances sistema de visión con comunicación IoT](https://www.canva.com/design/DAFii9A4kOo/_PwRGE7mJ_QPjqTu_CWS-Q/view?utm_content=DAFii9A4kOo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   - [Video Demostración Sistema de Visión + Wlkata](https://drive.google.com/file/d/1WClOIn4n-wFSlp6DVQ2fUTfiqQsQ65NX/view?usp=share_link)
 - <b>Celda de Manufactura</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
