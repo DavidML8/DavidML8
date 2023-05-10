@@ -7,14 +7,11 @@
 - <b>Relevado de Esfuerzos</b>
   - [Sistema Monitoreo en la Nube de proceso de Relevado de Esfuerzos](https://drive.google.com/file/d/1VcZBMoG-LuaV5yiK1h0Zr3nCACcqB4Db/view?usp=share_link)
 - <b>PiCar Seguidor de línea con visión</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Código seguidor de Línea](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Video Demostración Conducción](https://drive.google.com/file/d/1WCBn4lJj54956itMjlp2fP1ppohguA6e/view?usp=share_link)
 - <b>Smart Factory</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Presentación de avances sistema de visión con comunicación IoT](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Video Demostración Sistema de Visión + Wlkata](https://drive.google.com/file/d/1WClOIn4n-wFSlp6DVQ2fUTfiqQsQ65NX/view?usp=share_link)
 - <b>Celda de Manufactura</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
