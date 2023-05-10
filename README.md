@@ -17,8 +17,8 @@
 
 <h2>📺 Proyectos Personales</h2>
 
-- [Drone Agrícola](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Guantes Realidad Virtual](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Drone Agrícola](https://drive.google.com/file/d/1WLiuxPj72fbxox5fklQz9pYMw4Ft4Ht9/view?usp=share_link)
+- [Guantes Realidad Virtual](https://drive.google.com/file/d/1WHaXwdevR6VSNt1gxEzkuvNeMKHcUqZd/view?usp=share_link)
 
 <h2>📲 Mis contactos :</h2>
 
