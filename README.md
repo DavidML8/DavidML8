@@ -1,6 +1,6 @@
 <h1>Hi, I'm David Maldonado! <br/><a href="https://github.com/joshmadakor1">Mechatronics Engineer</a>
 
-<h2>👨‍💻 Proyectos Trabajados en la Universidad: (sigue en edición)</h2>
+<h2>🎓 Proyectos Trabajados en la Universidad: (sigue en edición)</h2>
 
 - <b>Motogarage</b>
   - [Documento Final Propuesta diseño Motogarage para EDAG](https://drive.google.com/file/d/1HxQTdzBMVAcLHKbpnppFdV7Qe5uXsxUw/view?usp=share_link)
